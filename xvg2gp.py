@@ -4,7 +4,7 @@
 # Usage: python xvg2gp.py xmgrace_file.xmg > filename.gp
 #
 # written by Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>
-# based on avr2gpt by Julen Larrucea http://www.larrucea.eu
+# based on avr2gpt by Julen Larrucea https://larrucea.eu/agr2gpt-convert-xmgrace-gnuplot-mathplotlib/
 
 import sys
 
