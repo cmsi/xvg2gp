@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 
 # xvg2gp: xmgrace to gnuplot translator
-# Usage: xvg2gp xmgrace_file.xmg > filename.gp
+# Usage: python xvg2gp.py xmgrace_file.xmg > filename.gp
 #
 # written by Synge Todo <wistaria@phys.s.u-tokyo.ac.jp>
 # based on avr2gpt by Julen Larrucea http://www.larrucea.eu
